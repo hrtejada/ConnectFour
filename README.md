@@ -3,11 +3,11 @@
 Connect Four Game done in Java
 
 #Compile
-...console
+```console
 javac ConnectFour.java
-...
+```
 
 #Run
-...console
+```console
 java ConnectFour 
-...
+```
